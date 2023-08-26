@@ -1,4 +1,4 @@
-# Hello there! I'm Gift Amachree (they/them) 👋
+# Hello there! I'm Gift Amachree  👋
 
 
 I'm an aspiring frontend developer, passionate about web technologies and always eager to collaborate on projects and innovative ideas. My journey in the tech world is driven by my desire to constantly grow and learn new things. Currently, I'm honing my skills at the ALX Software Engineering Program, specializing in frontend development.
