@@ -20,14 +20,13 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - ![Console](https://img.icons8.com/color/20/console.png) `Bash`
 
  <h3>📊 GitHub Stats</h3>
+ 
  ---
 
 <p>
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" width="480" alt="Gift's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact" alt="Top Languages" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jen67&theme=light" alt="Streak Stats" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Capnot34&show_icons=true&count_private=true" width="480" alt="Gift's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capnot34&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capnot34&theme=light" alt="Streak Stats" />
 </p>
 
 
