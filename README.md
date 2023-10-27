@@ -17,7 +17,15 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 - ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript` 
 - ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning) 
 - ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language` 
-- ![Console](https://img.icons8.com/color/20/console.png) `Bash` 
+- ![Console](https://img.icons8.com/color/20/console.png) `Bash`
+
+ <h3>📊 GitHub Stats</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jen67&show_icons=true&count_private=true" width="480" alt="Gift's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jen67&layout=compact" alt="Top Languages" />
+</p>
+
 
 ## 💌 Connect With Me
 
