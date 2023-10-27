@@ -12,12 +12,12 @@ I'm an aspiring frontend developer, passionate about web technologies and always
 
 ## 💼 Technical Skills
 
-- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML` - 90%
-- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS` - 85%
-- ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript` - 75%
-- ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning) - 40%
-- ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language` - 50%
-- ![Console](https://img.icons8.com/color/20/console.png) `Bash` - 60%
+- ![HTML5](https://img.icons8.com/color/20/html-5.png) `HTML`
+- ![CSS3](https://img.icons8.com/color/20/css3.png) `CSS` 
+- ![JavaScript](https://img.icons8.com/color/20/javascript.png) `JavaScript` 
+- ![React](https://img.icons8.com/color/20/react-native.png) `React` (Learning) 
+- ![C Language](https://img.icons8.com/color/20/c-programming.png) `C Language` 
+- ![Console](https://img.icons8.com/color/20/console.png) `Bash` 
 
 ## 💌 Connect With Me
 
